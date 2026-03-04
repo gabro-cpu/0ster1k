@@ -1,6 +1,6 @@
 # 0ster1k.exe
 
-This is my new **C++ GDI Malware**, a project I've been working on to explore and demonstrate the capabilities of the Windows GDI (Graphics Device Interface) when pushed to its limits. It's written entirely in C++ and showcases various visual and audio payloads.
+This is my new **C++ GDI Malware**, a project I've been working on for days. It's written entirely in C++ and showcases various visual and audio payloads.
 
 In this repository, you'll find:
 
